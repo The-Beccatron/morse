@@ -132,11 +132,9 @@ void loop() {
       Serial.print("alien soldering");
       break;  
       case 'a':
-      Serial.print("lpha");
       alpha();
       break;
       case 'b':
-      Serial.print("ravo");
       bravo();
       break;
       case 'c':
